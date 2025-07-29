@@ -1,4 +1,4 @@
-# 🤟 Sign Language Translator using Computer Vision and Deep Learning
+#  Sign Language Translator using Computer Vision and Deep Learning
 
 > A comprehensive, real-time Sign Language Translator developed as a Final Year Capstone Project. Built with Python, MediaPipe, and TensorFlow, it recognizes static hand gestures (A–Z and 0–9) and translates them into spoken English text using a lightweight machine learning model and TTS.
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 📊 Abstract
+## Abstract
 
 This project aims to create an accessible and real-time tool that bridges the communication gap between sign language users and non-signers. It uses computer vision to detect hand landmarks and a machine learning model to classify static gestures. These gestures are converted into text and then to speech, facilitating smoother interactions.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Sign-Language-Recognition/
@@ -43,7 +43,7 @@ Sign-Language-Recognition/
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 | Feature                     | Description                                              |
 | --------------------------- | -------------------------------------------------------- |
@@ -100,7 +100,7 @@ label,x1,y1,x2,y2,...,x21,y21
 
 ## 🔧 Model Training
 
-**Notebook**: `keypoint_classification_EN.ipynb`
+**Notebook**: `keypoint_classification.ipynb`
 
 * **Input**: 42 (x, y) hand keypoint values
 * **Output**: One of 36 classes
@@ -136,13 +136,13 @@ Input (42 nodes)
 
 ---
 
-## 🤧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/sign-language-translator.git
-cd sign-language-translator
+git clone https://github.com/Genkrit/SignLang-translator.git
+cd SignLang-Translator
 ```
 
 ### 2. Set Up Virtual Environment
@@ -161,7 +161,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚧 Run the App
+##  Run the App
 
 ### Option 1: GUI Mode (recommended)
 
@@ -183,7 +183,7 @@ jupyter notebook keypoint_classification_EN.ipynb
 
 ---
 
-## 🚪 Keyboard Shortcuts in GUI
+##  Keyboard Shortcuts in GUI
 
 | Key       | Function                     |
 | --------- | ---------------------------- |
@@ -195,7 +195,7 @@ jupyter notebook keypoint_classification_EN.ipynb
 ---
 
 
-## 📚 License
+##  License
 
 This project is licensed under the MIT License. See `LICENSE` for more information.
 

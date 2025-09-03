@@ -7,10 +7,14 @@
 ## 📸 Preview Section
 
 
-* GUI Screenshot: ![](assets/gui_interface.png)
-* Live Detection: ![](assets/live_demo.gif)
-* Model Architecture: ![](assets/model_architecture.png)
-* Confusion Matrix: ![](assets/confusion_matrix.png)
+* GUI Screenshot:
+* <img width="1825" height="1029" alt="Screenshot 2025-07-07 224250" src="https://github.com/user-attachments/assets/5c1b0611-eb5f-4aba-8198-cb5fdb235562" />
+
+* Live Detection:
+*<img width="373" height="373" alt="Screenshot 2025-07-04 074226" src="https://github.com/user-attachments/assets/42692250-dd20-4feb-b420-365dd0d06061" />
+*<img width="936" height="702" alt="Screenshot 2025-07-05 082703" src="https://github.com/user-attachments/assets/6bfbe3c6-0230-48bb-b1a9-4ae3aa4838c8" />
+
+* Confusion Matrix: 
 
 ---
 
